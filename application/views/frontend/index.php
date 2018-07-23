@@ -10,9 +10,9 @@
     <div class="overlay-wrapper">
         <?php $this->load->view('frontend/header/header_content'); ?>
         <?php 
-        if($content == '/frontend/pages/home'){
-            $this->load->view('frontend/header/slider'); 
-        }
+        // if($content == '/frontend/pages/home'){
+        //     $this->load->view('frontend/header/slider'); 
+        // }
         ?>
 
 
